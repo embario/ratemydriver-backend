@@ -1,0 +1,13 @@
+django
+djangorestframework
+django-filter
+django-extensions
+django-rest-registration
+social-auth-app-django
+markdown
+psycopg2
+flake8
+ipython
+ipdb
+pillow
+spotipy
